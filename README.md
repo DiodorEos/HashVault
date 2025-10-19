@@ -20,8 +20,10 @@ Built to demonstrate modular coding architecture, user-centric design in a deskt
 
 
 ## 📸 Screenshots
-_(Add screenshots of the UI here)_
-
+### Main UI
+![Main UI](hashvault_mainUI.png)
+### Show File Hash
+![Show File Hash](hashvault_hashed.png)
 ## 📁 Structure
 - `FileSnapshot.cs`: Handles hash generation
 - `MainForm.cs`: UI logic and event handling
